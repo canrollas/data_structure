@@ -6,7 +6,6 @@ int main()
     LinkedListStructure linkedList;
     linkedList.print_list();
     linkedList.add_node(1);
-
     linkedList.add_node(2);
     linkedList.add_node(3);
     linkedList.print_list();
