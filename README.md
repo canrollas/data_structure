@@ -1,4 +1,4 @@
-# Linked List
+# Linked List & Stack
  C++ Linked List Implementation / Stack Implementation
 
  > This repo includes implementation of the Linked List/ Stack with Pointer arithmetic.
