@@ -1,4 +1,4 @@
-# data_structure
+# Linked List
  C++ Linked List Implementation
 
  > This repo includes implementation of the Linked List with Pointer arithmetic.
